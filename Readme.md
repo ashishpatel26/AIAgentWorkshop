@@ -29,6 +29,11 @@
 - **SmolAgent Framework Step by Step**
 - **Agent** : AI News Agent App
 
+| Sr No | Topic                                                  | Colab Link |
+| ----- | ------------------------------------------------------ | ---------- |
+| 1.    | CrewAI Notebook to Make A Finance Agent                |            |
+| 2.    | SmolAgent Streamlit App Run in Notebook(AI news Agent) |            |
+
 ---
 
 ## 🔄Part 2: Workflow Patterns for AI Systems
