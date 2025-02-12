@@ -29,10 +29,10 @@
 - **SmolAgent Framework Step by Step**
 - **Agent** : AI News Agent App
 
-| Sr No | Topic                                                  | Colab Link |
-| ----- | ------------------------------------------------------ | ---------- |
-| 1.    | CrewAI Notebook to Make A Finance Agent                |            |
-| 2.    | SmolAgent Streamlit App Run in Notebook(AI news Agent) |            |
+| Sr No | Topic                                                  | Colab Link                                                                                                                                                                                      |
+| ----- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.    | CrewAI Notebook to Make A Finance Agent                | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/AIAgentWorkshop/blob/main/1-CrewAI_Notebook.ipynb)               |
+| 2.    | SmolAgent Streamlit App Run in Notebook(AI news Agent) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/AIAgentWorkshop/blob/main/2-SmoleAgent_Streamlit_Notebook.ipynb) |
 
 ---
 
