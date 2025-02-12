@@ -1,6 +1,6 @@
 # 🧠 AI Agent Workshops
 
-***13 Feb 2024, University of Wollongong, GiftCity, Gandhinagar***
+***13 Feb 2025, University of Wollongong, GiftCity, Gandhinagar***
 
 ---
 
