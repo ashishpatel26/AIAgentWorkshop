@@ -1,0 +1,8 @@
+requests
+ipykernel
+python-dotenv
+openai
+pydantic
+langchain-google-genai
+crewai 
+crewai-tools

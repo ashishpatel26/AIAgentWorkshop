@@ -1,0 +1,9 @@
+streamlit 
+smolagents 
+groq 
+duckduckgo-search 
+newspaper3k
+beautifulsoup4
+requests
+nltk 
+pandas

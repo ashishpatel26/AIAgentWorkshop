@@ -1,0 +1,19 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "question": "What is the return policy?",
+            "answer": "Items can be returned within 30 days of purchase with original receipt. Refunds will be processed to the original payment method within 5-7 business days."
+        },
+        {
+            "id": 2,
+            "question": "Do you ship internationally?",
+            "answer": "Yes, we ship to over 50 countries worldwide. International shipping typically takes 7-14 business days and costs vary by destination. Please note that customs fees may apply."
+        },
+        {
+            "id": 3,
+            "question": "What payment methods do you accept?",
+            "answer": "We accept Visa, Mastercard, American Express, PayPal, and Apple Pay. All payments are processed securely through our encrypted payment system."
+        }
+    ]
+}
