@@ -91,7 +91,7 @@ def handle_query(user_input: str) -> str:
 # Initialize the agent with the necessary tools
 agent = CodeAgent(
     tools=[sql_engine],
-    model=HfApiModel(model_id="Qwen/Qwen2.5-Coder-32B-Instruct", token="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"),
+    model=HfApiModel(model_id="Qwen/Qwen2.5-Coder-32B-Instruct", token=""hf-key....""),
 )
 
 # Gradio UI layout

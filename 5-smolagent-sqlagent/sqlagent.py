@@ -104,7 +104,7 @@ def handle_query(user_input: str) -> str:
 
 agent = CodeAgent(
     tools=[sql_engine],
-    model=HfApiModel(model_id="Qwen/Qwen2.5-Coder-32B-Instruct", token="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"),
+    model=HfApiModel(model_id="Qwen/Qwen2.5-Coder-32B-Instruct", token="hf-key...."),
 )
 
 with gr.Blocks() as demo:
