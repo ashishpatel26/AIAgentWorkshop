@@ -29,12 +29,18 @@
 - **SmolAgent Framework Step by Step**
 - **Agent** : AI News Agent App
 
+#### 🔹Part 5: Agentic AI in SQL(SmolAgent)
+
+- **SmolAgent Framework Step by Step for SQL**
+- **Agent** : SQL AI Agent Dashboard
+
 | Sr No | Topic                                                      | Colab Link                                                                                                                                                                                      |
 | ----- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1.    | CrewAI Notebook to Make A Finance Agent                    | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/AIAgentWorkshop/blob/main/1-CrewAI_Notebook.ipynb)               |
 | 2.    | SmolAgent Streamlit App Run in Notebook(AI news Agent)     | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/AIAgentWorkshop/blob/main/2-SmoleAgent_Streamlit_Notebook.ipynb) |
 | 3.    | CrewAI Gemini Streamlit App Run in Notebook(AI News Agent) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/AIAgentWorkshop/blob/main/3_Gemini_crewAI_Agents.ipynb)          |
 | 4.    | Gemini Vision Pro Code Agent(Code Agent)                   | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/AIAgentWorkshop/blob/main/4_GeminiVisionPro_Agent.ipynb)         |
+| 5.    | Sql Agent to Communicate with Database(Sql Agent)          | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashishpatel26/AIAgentWorkshop/blob/main/5_SmolAgent_sqlAgent.ipynb)            |
 
 ---
 
@@ -238,6 +244,13 @@ graph TD
     SC --> S[Streamlit App via Colab]
     SC --> N[AI News Agent App]
 ```
+
+#### 🔹Part 5: Agentic AI in SQL(SmolAgent)
+
+- **SmolAgent Framework Step by Step for SQL**
+- **Agent** : SQL AI Agent Dashboard
+
+![](images/sqlagent.gif)
 
 ---
 
