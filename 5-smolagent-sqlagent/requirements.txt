@@ -1,0 +1,4 @@
+gradio
+smolagents
+python-dotenv
+sqlalchemy
